@@ -1,0 +1,90 @@
+div.li {
+	color: blue;
+}
+
+nav {
+	color: blue;
+}
+
+body {
+
+}
+#well{
+	
+	 font-size: 32px;
+}
+
+#file_info{
+	height: 100%;
+	width:200px;
+	background-color: #F5F5F5;
+	
+	float: left;
+	border-radius: 8px;
+	margin: 5px 5px 5px 5px;
+	 
+
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+
+}
+
+nav {
+	font-size: 20px;
+	background:blue;
+}
+
+nav a{
+	display: inline-block;;
+	text-decoration: none;
+	color: #888d96;
+	padding: 10px 20px;
+	background: ;	
+}
+
+nav a:hover{
+	text-decoration: none;
+	background: #CCFFCC;
+	color: #191970;
+}
+
+.pictures{
+	width:200px;
+	height:260px;
+	background-color: #F5F5F5;
+	
+	float: left;
+	border-radius: 8px;
+	margin: 5px 5px 5px 5px;
+	 
+
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+
+}
+
+h2{
+	text-align: center;
+	padding-left: 20px;
+	color: #191970;
+}
+
+.img_name{
+	text-align: center;
+	color: #191970;
+	font-weight: bold;
+}
+
+.img_path{
+	color: #A3A4BF;
+	padding-top:5px;
+	width: 200px;
+	height: 60px;
+	word-wrap: break-word;
+}
+
+.img_size{
+    color: #8A8BA1;
+}
